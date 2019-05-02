@@ -2,3 +2,4 @@
 library(ggplot2)
 a<- rnorm(100)
 plot(a, xlim=c(-3,3))
+x=2
